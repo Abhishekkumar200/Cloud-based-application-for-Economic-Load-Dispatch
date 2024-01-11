@@ -7,3 +7,5 @@ processing, secure collaboration, and cost-effective solutions. Our framework in
 three systems: ”Economic dispatch without constraints”, ”Economic dispatch considering Generator Limits” and ”Economic dispatch considering all constraints” We converted these systems into Python code and deployed them
 on AWS Lambda by creating two different Lambda functions, along with other dependencies. And analyzed their performances. The real-time data were also stored in a database
 called DynamoDB.
+
+## Introduction
