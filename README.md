@@ -11,6 +11,6 @@ called DynamoDB.
 ## Introduction
 
 An essential aspect of the economic operation of power generation and distribution involves
-the principle of economic dispatch, striving to minimize the cost associated with power production. Under specified load conditions, economic dispatch plays an important role in determining the power output for each plant, including individual generating units within those
-plants. The primary objective is to minimize the overall cost of fuel required, to meet the system load. Essentially, economic dispatch entails orchestrating the distribution of production
+the principle of economic dispatch, striving to minimize the cost associated with power production. Under specified load conditions, economic dispatch plays an important role in determining the power output for each plant, including individual generating units within those
+plants. The primary objective is to minimize the overall cost of fuel required, to meet the system load. Essentially, economic dispatch entails orchestrating the distribution of production
 costs among all operational power plants within the system.
